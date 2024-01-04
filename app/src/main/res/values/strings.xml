@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">RecordKeeperApplication</string>
+    <string name="running">running</string>
+    <string name="cycling">cycling</string>
+    <string name="running_text">running</string>
+    <string name="running_img_description">running_img_description</string>
+    <string name="_5km">5Km</string>
+    <string name="_10km">10Km</string>
+    <string name="_30_09_2023">30/09/2023</string>
+    <string name="_22_04">22.04</string>
+    <string name="half_marathon">Half Marathon</string>
+    <string name="marathon">Marathon</string>
+    <string name="text_view_longest_ride">Longest Ride</string>
+    <string name="text_view_biggest_climb">Biggest Climb</string>
+    <string name="text_viewbest_average_speed">Best Average Speed</string>
+    <string name="reset_cycling_record">Reset Cycling Records</string>
+    <string name="reset_all_record">Reset All Records</string>
+    <string name="reset_running_record">Reset Running Records</string>
+    <string name="clear_button">CLEAR</string>
+    <string name="save_button">SAVE</string>
+    <string name="record_text">Record</string>
+    <string name="date_text">Date</string>
+    <string name="clear_button_edit_record">CLEAR</string>
+    <string name="save_button_edit_record">SAVE</string>
+    <string name="date_edit_text">Date</string>
+    <string name="record_edit_text">Record</string>
+    <string name="clear_running_edit_buton">CLEAR</string>
+    <string name="save_running_edit_buton">SAVE</string>
+    <string name="date_running_edit_text">Date</string>
+    <string name="record_running_edit_text">Record</string>
+    <string name="save_running_button">Save</string>
+    <string name="clear_running_button">clear</string>
+    <string name="_5km_heading_text">5Km</string>
+</resources>

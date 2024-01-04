@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_running"
+        android:icon="@drawable/baseline_runing_24"
+        android:title="@string/running" />
+    <item
+        android:id="@+id/nav_cycling"
+        android:icon="@drawable/baseline_cycling_24"
+        android:title="@string/cycling" />
+</menu>
